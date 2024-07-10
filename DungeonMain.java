@@ -36,7 +36,7 @@ public class DungeonMain {
 			}
 			
 		} else {
-			System.out.println("Fine gioco");
+			System.out.println("Fine giocoo");
 		}
 	}
 
